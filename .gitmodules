@@ -1,6 +1,8 @@
 [submodule "rws-sgo"]
 	path = rws-sgo
 	url = git@github.com:sltamula/rws-sgo.git
+	branch = main
 [submodule "rws-ua"]
 	path = rws-ua
 	url = git@github.com:sltamula/rws-ua.git
+	branch = main
